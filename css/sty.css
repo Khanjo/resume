@@ -1,7 +1,45 @@
 h1 {
     text-align: center;
     font-size: 60px;
-    border-bottom: 2px solid black;
     width: 610px;
     margin: auto;
+    line-height: 2;
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: xx-large;
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-decoration: underline black;
+    text-align: center;
+}
+
+#edu {
+    float: left;
+    margin-top: 100px;
+    margin-left: 100px;
+    padding-left: 200px;
+    width: auto;
+}
+
+#exp {
+    float: right;
+    margin: 100px;
+    margin-right: 100px;
+    padding-right: 200px;
+    width: auto;
+}
+
+ol {
+    text-align: left;
+    font-size: x-large;
+    line-height: 2;
+}
+
+ul {
+    text-align: left;
+    font-size: x-large;
+    line-height: 2;
 }
