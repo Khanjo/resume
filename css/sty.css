@@ -20,13 +20,9 @@ h1 {
     float: left;
 }
 
-#exp {
-    float: right;
-}
-
 h2 {
     font-size: xx-large;
-    text-decoration: underline black;
+    text-decoration: underline;
     text-align: center;
 }
 
