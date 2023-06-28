@@ -6,18 +6,20 @@ body {
 h1 {
     text-align: center;
     font-size: 60px;
-    width: 610px;
+    width: 30vw;
     margin: auto;
     line-height: 2;
     text-decoration: underline;
 }
 
 .card {
-    width: 42vw;
-    height: 20vw;
+    align-self: center;
+    width: 50vw;
+    height: auto;
     margin: auto;
+    margin-top: 10px;
     padding: 10px;
-    float: left;
+    border: 5px solid antiquewhite;
 }
 
 h2 {
